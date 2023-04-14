@@ -1,4 +1,4 @@
-# paranoid-sequelize
+# paranoid-sequelize-example
 
 <p>O paranoid é um recurso do Sequelize que adiciona suporte para exclusão suave (soft delete) em modelos, ou seja, em vez de excluir fisicamente um registro do banco de dados, o registro é marcado como excluído e ainda pode ser recuperado posteriormente. </p>
 
